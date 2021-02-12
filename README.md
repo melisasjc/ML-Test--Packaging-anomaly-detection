@@ -28,3 +28,6 @@ refPositionFront-Reference position of the front chain\
 refVelocityFront- Reference velocity of the front chain\
 trackingDeviationFront - Tracking deviation of the front chain\
 velocityFront - Velocity of the front chain
+
+#### Acknowledgements
+Schneider Electric Exchange for providing this dataset.
