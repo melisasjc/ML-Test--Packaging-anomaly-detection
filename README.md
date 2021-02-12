@@ -29,5 +29,8 @@ refVelocityFront- Reference velocity of the front chain\
 trackingDeviationFront - Tracking deviation of the front chain\
 velocityFront - Velocity of the front chain
 
+## Result 
+Random Forest gave the highest F1-score of approx. 85%, and hence this model was used to predict the class labels for the test dataset.
+
 #### Acknowledgements
 Schneider Electric Exchange for providing this dataset.
